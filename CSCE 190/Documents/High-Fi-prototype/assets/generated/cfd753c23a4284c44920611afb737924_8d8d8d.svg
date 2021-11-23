@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>Flowers</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="stroked" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Activities" sketch:type="MSLayerGroup" transform="translate(-854.000000, 2.000000)" stroke="#8d8d8d" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <g id="Flowers" transform="translate(865.000000, 4.000000)" sketch:type="MSShapeGroup">
+                <path d="M4,25 L33,25 L31,52 L6,52 L4,25 Z" id="Rectangle-945"></path>
+                <path d="M0,18 L37,18 L35,27 L2,27 L0,18 Z" id="Rectangle-946"></path>
+                <path d="M32.9987312,0.776029041 C32.998731,0.776029041 33.3345932,9.84218523 23.0776092,11.2856486 C23.0776092,11.285649 22.7290561,-0.224797176 32.9987312,0.776029041 Z" id="Path-1861"></path>
+                <path d="M19.4987312,0.492605175 C19.498731,0.492605175 19.8345932,9.55876137 9.57760919,11.0022247 C9.57760919,11.0022252 9.2290561,-0.508221042 19.4987312,0.492605175 Z" id="Path-1861" transform="translate(14.538100, 5.716576) rotate(-83.000000) translate(-14.538100, -5.716576) "></path>
+                <path d="M20.3947738,18.9949293 C20.3947738,18.9949293 20.5498943,13.8957277 23.268212,11.3683751" id="Path-1863"></path>
+                <path d="M21.2334136,14.1243913 L19.3160371,11.1310592" id="Path-1864"></path>
+            </g>
+        </g>
+    </g>
+</svg>
